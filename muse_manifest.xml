@@ -1,0 +1,70 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="symposium.com" resolutions="1x" timestamp="1549874746101">
+  <folder name="css">
+    <file name="site_global.css" crc="314571582"/>
+    <file name="index.css" crc="4018449576" ref="index"/>
+    <file name="nomq_index.css" crc="237332337" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3957418178" ref="index"/>
+    <file name="20063174-01-u1095-fr.png" crc="362215322" ref="index"/>
+    <file name="ksr logo vector-01.png" crc="3840626041" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yellow-01.svg" crc="3814830018" ref="index"/>
+    <file name="yellow-01_poster_u3525.png" crc="3778190598" ref="index"/>
+    <file name="orange.svg" crc="3793229140" ref="index"/>
+    <file name="orange_poster_u3492.png" crc="3840898263" ref="index"/>
+    <file name="violet-01.svg" crc="369824803" ref="index"/>
+    <file name="violet-01_poster_u3510.png" crc="3940058656" ref="index"/>
+    <file name="pink.svg" crc="3911650674" ref="index"/>
+    <file name="pink_poster_u3500.png" crc="4111152113" ref="index"/>
+    <file name="untitled-1 flipped-01.png" crc="3887141930" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indian_society_for_technical_education.png" crc="3916664965" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csi-logo.png" crc="3762063915" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2000px-ict_academy_logo.jpg" crc="3849773370" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="institute-of-engineers-png-5.png" crc="4205059446" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_jci.png" crc="3929530652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="violet gradient.jpg" crc="56784851" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_jci-u3305-fr.png" crc="4283282581" ref="index"/>
+    <file name="logo_jci-u3305-fr2.png" crc="192903100" ref="index"/>
+  </folder>
+  <file name="index.html" crc="119644563" seo="true" mt="1549874328893" redirect="true"/>
+</manifest>
